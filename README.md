@@ -1,4 +1,4 @@
-# Projeto de Desenvolvimento de Aplicativo utilizando React Native
+# Projeto de Desenvolvimento de Aplicativo utilizando React Native + Banco de Dados MySQL
 Desenvolvido por Gabriel Barros Bengoa
 
 ## Tema do Projeto: Comercial
